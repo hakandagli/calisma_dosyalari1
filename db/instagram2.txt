@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+       "sharing":{
+           "id":1
+	       "username":"hakan",
+	       "userImg":"/assets/users/user1.png"
+      },
+      "like": 500,
+      "description": "Türkiyenin başkenti",
+      "imageUrl": "/assets/posts/1.png"
+    }
+  ],
+  "users":[
+    {   
+        "id":1,
+        "username":"hakan",
+        "imageUrl":"/assets/users/user1.png"
+    }
+  ]
+}

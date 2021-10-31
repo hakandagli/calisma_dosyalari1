@@ -1,0 +1,99 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "sharing": {
+        "id": 3,
+        "username": "cr7",
+        "userImg": "/assets/users/user3.jpg"
+      },
+      "like": 500,
+      "liked": false,
+      "description": "Hayat kısa Ronaldo uçuyor",
+      "imageUrl": "/assets/posts/1.jpg"
+    },
+    {
+      "id": 2,
+      "sharing": {
+        "id": 8,
+        "username": "modric",
+        "userImg": "/assets/users/user8.jpg"
+      },
+      "like": 500,
+      "liked": true,
+      "description": "Beni biraz abartın",
+      "imageUrl": "/assets/posts/2.jpg"
+    },
+    {
+      "id": 3,
+      "sharing": {
+        "id": 2,
+        "username": "leomessi",
+        "userImg": "/assets/users/user2.jpg"
+      },
+      "like": 500,
+      "liked": false,
+      "description": "No skin only skills",
+      "imageUrl": "/assets/posts/3.jpg"
+    },
+    {
+      "id": 4,
+      "sharing": {
+        "id": 5,
+        "username": "panky",
+        "userImg": "/assets/users/user5.jpg"
+      },
+      "like": 500,
+      "liked": false,
+      "description": "brrraaaah",
+      "imageUrl": "/assets/posts/4.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "hakan",
+      "userImg": "/assets/users/user1.png"
+    },
+    {
+      "id": 2,
+      "username": "leomessi",
+      "userImg": "/assets/users/user2.jpg"
+    },
+    {
+      "id": 3,
+      "username": "cr7",
+      "userImg": "/assets/users/user3.jpg"
+    },
+    {
+      "id": 4,
+      "username": "ardaturan",
+      "userImg": "/assets/users/user4.jpg"
+    },
+    {
+      "id": 5,
+      "username": "panky",
+      "userImg": "/assets/users/user5.jpg"
+    },
+    {
+      "id": 6,
+      "username": "elwind",
+      "userImg": "/assets/users/user6.jpg"
+    },
+    {
+      "id": 7,
+      "username": "hakan.dagli",
+      "userImg": "/assets/users/user7.jpg"
+    },
+    {
+      "id": 8,
+      "username": "modric",
+      "userImg": "/assets/users/user8.jpg"
+    },
+    {
+      "id": 8,
+      "username": "liseli",
+      "userImg": "/assets/users/user9.jpg"
+    }
+  ]
+}
